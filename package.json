@@ -1,0 +1,16 @@
+{
+	"scripts": {
+		"start": "ts-node index.js"
+	},
+	"dependencies": {
+		"nodemon": "^2.0.13",
+		"ts-node": "^10.3.0"
+	},
+	"name": "webserver",
+	"version": "1.0.0",
+	"main": "index.js",
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": ""
+}
