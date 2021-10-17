@@ -1,7 +1,8 @@
 {
+	"name": "nodejs-webserver",
 	"scripts": {
-		"start": "ts-node index.ts",
-		"dev": "nodemon index.ts"
+		"start": "ts-node src/index.ts",
+		"dev": "nodemon src/index.ts"
 	},
 	"devDependencies": {
 		"@types/node": "^16.11.1",
